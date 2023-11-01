@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  max-width: 1024px;
+  margin: auto;
+}
+
+.navbar-background {
+  background-image: url("/images/pngtree-beautiful-bokeh-background-with-soft-color-image_351546.jpg");
+}
+
+.nav-item {
+  text-align: left;
+}
+
+.navbar-icon {
+  width: 15px;
+  margin-right: 5px;
+}
+
+.nav-language {
+  display: none;
+  margin-top: 8px;
+  margin-left: 10px;
+}
+
+.button-selector {
+  margin: 10px;
+}
+
+.scheda-main {
+  font-size: 150px;
+  font-family: "xingothic-tc-w8";
+  font-weight: 800;
+}
+
+.scheda-caption {
+  font-size: 20px;
+  font-family: "xingothic-tc-w8";
+  font-weight: 600;
+}
+
+.pgb_countdown {
+  height: 40px;
+}
+
+.card_image {
+  width: 300px;
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "parola": "gatto",
+    "tag": ["es01"],
+    "img": "https://kittybiome.com/wp-content/uploads/2022/09/KittyBiome-TestTheCatMicrobiome-880197060-1663095936664.jpg"
+  },
+  {
+    "parola": "cane",
+    "tag": ["es01"],
+    "img": "https://www.dogtrainingnation.com/wp-content/uploads/2016/08/dog-urine-sample.jpg"
+  },
+  {
+    "parola": "sole",
+    "tag": ["es01"],
+    "img": "https://www.eso.org/public/archives/images/original/eso1322a.jpg"
+  },
+  {
+    "parola": "luna",
+    "tag": ["es01"],
+    "img": "https://www.skyandtelescope.org/wp-content/uploads/Luna_Fall.jpg"
+  },
+  {
+    "parola": "albero",
+    "tag": ["es01"],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png"
+  },
+  {
+    "parola": "fiore",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/5/Pink-Flower-PNG-High-Quality-Image.png"
+  },
+  {
+    "parola": "auto",
+    "tag": ["es01"],
+    "img": "https://cdn.pixabay.com/photo/2016/03/24/08/32/automobile-1275537_1280.png"
+  },
+  {
+    "parola": "treno",
+    "tag": ["es01"],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/SBB_CFF_FFS_RE_460_Lokomotive_08_2018.jpg"
+  },
+  {
+    "parola": "casa",
+    "tag": ["es01"],
+    "img": "https://www.pngkey.com/png/full/1-12089_transparent-background-houses-png-house-png.png"
+  },
+  {
+    "parola": "mare",
+    "tag": ["es01"],
+    "img": "https://www.pngitem.com/pimgs/m/257-2574615_sea-png-sea-hd-png.png"
+  },
+  {
+    "parola": "nuvola",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/3/Cloud-Transparent-Background.png"
+  },
+  {
+    "parola": "pallone",
+    "tag": ["es01"],
+    "img": "https://www.pngkey.com/png/full/29-298503_png-image-gallery-png-ballon.png"
+  },
+  {
+    "parola": "ragno",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/3/Spider-HD-PNG.png"
+  },
+  {
+    "parola": "uccello",
+    "tag": ["es01"],
+    "img": "https://cdn.pixabay.com/photo/2016/12/13/05/15/poultry-1903288_1280.png"
+  },
+  {
+    "parola": "farfalla",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/3/Butterfly-Transparent-PNG.png"
+  },
+  {
+    "parola": "pesce",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/4/Fish-PNG-Download-Image.png"
+  },
+  {
+    "parola": "libro",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/3/Book-PNG-Pic.png"
+  },
+  {
+    "parola": "mela",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/4/Apple-PNG-Image.png"
+  },
+  {
+    "parola": "banana",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/3/Banana-Clipart-PNG.png"
+  },
+  {
+    "parola": "pasta",
+    "tag": ["es01"],
+    "img": "https://www.pngarts.com/files/3/Pasta-Clip-Art-Image.png"
+  }
+]

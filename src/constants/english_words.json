@@ -1,0 +1,37 @@
+[
+  {
+    "word": "short",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  },
+  {
+    "word": "tall",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  },
+  {
+    "word": "fat",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  },
+  {
+    "word": "thin",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  },
+  {
+    "word": "this",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  },
+  {
+    "word": "father",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  },
+  {
+    "word": "mother",
+    "tag": ["es01"],
+    "img": "/images/placeholder.png"
+  }
+]
